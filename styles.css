@@ -1,0 +1,55 @@
+h1{
+    font-size: 96px;
+    color: #207801;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #21DF1D;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-bottom: 160px;
+}
+
+button{
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: #21DF1D;
+    cursor: pointer;
+}
+
+p{
+    padding-left: 116px;
+}
+
+.section-left{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 467px;
+}
+
+.section-right{
+    display: flex;
+    justify-content: right;
+    height: 467px;
+    padding-right: 90px;
+    align-items: center;
+}
+
+.images-page-2{
+    padding-left: 600px;
+}
+
+.middle-text{
+    padding-left: 900px;
+    padding-right: 100px;
+}
